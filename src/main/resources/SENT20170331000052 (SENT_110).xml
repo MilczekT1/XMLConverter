@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<SENT_110 xmlns:ns2="http://www.mf.gov.pl/SENT/2017/01/18/STypes.xsd" xmlns="http://www.mf.gov.pl/SENT/2017/01/18/SENT_110.xsd">
+		<SentNumber>SENT20170331000052</SentNumber>
+		<KeyNumber>
+			<ns2:SenderKey>KS-14XD</ns2:SenderKey>
+			<ns2:RecipientKey>KR-57JN</ns2:RecipientKey>
+			<ns2:CarrierKey>KD-68TH</ns2:CarrierKey>
+		</KeyNumber>
+		<RegisteredSentInfo>
+			<ns2:CreationDate>2017-03-31T09:55:44.820+02:00</ns2:CreationDate>
+			<ns2:Creator>Jan Kowalski</ns2:Creator>
+			<ns2:ModificationDate>2017-03-31T09:55:44.820+02:00</ns2:ModificationDate>
+			<ns2:ChecksumOfSourceDocument>86077651c30745b04955edcbf597d1e9ec33135e</ns2:ChecksumOfSourceDocument>
+			<ns2:SentId>12131</ns2:SentId>
+			<ns2:SentStatus>0</ns2:SentStatus>
+		</RegisteredSentInfo>
+		<GoodsSender>
+			<ns2:TraderInfo>
+				<ns2:TraderName>Roland de Grabla-Mściszewski</ns2:TraderName>
+				<ns2:TraderIdentityType>NIP</ns2:TraderIdentityType>
+				<ns2:TraderIdentityNumber>9531011656</ns2:TraderIdentityNumber>
+			</ns2:TraderInfo>
+			<ns2:TraderAddress>
+				<ns2:Street>Ciemna</ns2:Street>
+				<ns2:HouseNumber>BRAK</ns2:HouseNumber>
+				<ns2:FlatNumber>1</ns2:FlatNumber>
+				<ns2:City>Bydgoszcz</ns2:City>
+				<ns2:Country>PL</ns2:Country>
+				<ns2:PostalCode>85-432</ns2:PostalCode>
+			</ns2:TraderAddress>
+		</GoodsSender>
+		<GoodsRecipient>
+			<ns2:TraderInfo>
+				<ns2:TraderName>Jan Kowalski</ns2:TraderName>
+				<ns2:TraderIdentityType>NIP</ns2:TraderIdentityType>
+				<ns2:TraderIdentityNumber>5550012927</ns2:TraderIdentityNumber>
+			</ns2:TraderInfo>
+			<ns2:TraderAddress>
+				<ns2:Street>Jasna</ns2:Street>
+				<ns2:HouseNumber>1</ns2:HouseNumber>
+				<ns2:City>Trzebinia</ns2:City>
+				<ns2:Country>PL</ns2:Country>
+				<ns2:PostalCode>01-234</ns2:PostalCode>
+			</ns2:TraderAddress>
+		</GoodsRecipient>
+		<Transport>
+			<ns2:PlaceOfLoading>
+				<ns2:Street>Ciemna</ns2:Street>
+				<ns2:HouseNumber>BRAK</ns2:HouseNumber>
+				<ns2:FlatNumber>1</ns2:FlatNumber>
+				<ns2:City>Bydgoszcz</ns2:City>
+				<ns2:Country>PL</ns2:Country>
+				<ns2:PostalCode>85-042</ns2:PostalCode>
+			</ns2:PlaceOfLoading>
+			<ns2:PlannedStartCarriageDate>2017-04-04+02:00</ns2:PlannedStartCarriageDate>
+		</Transport>
+		<GoodsInformation>
+			<ns2:CodeCnClassification>2707</ns2:CodeCnClassification>
+			<ns2:GoodsName>Wstawiam opis towaru</ns2:GoodsName>
+			<ns2:AmountOfGoods>800</ns2:AmountOfGoods>
+			<ns2:UnitOfMeasure>kg</ns2:UnitOfMeasure>
+			<ns2:GrossWeightOfGoods>800.01</ns2:GrossWeightOfGoods>
+		</GoodsInformation><Comments>Wpisuję komentarz</Comments>
+	</SENT_110>
